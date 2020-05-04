@@ -1,4 +1,4 @@
-# Analysis on Yelp Data
+# Analysis on Yelp Business and Customer Patterns
 
 ## Description On Basic Concepts
 
