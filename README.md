@@ -1,5 +1,9 @@
 # Analysis on Yelp Business and Customer Patterns
 
+- Language: Python Jupyter Notebook
+  - Libraries: Pandas, PySpark, matplotlib
+- [Code and Analysis](Analysis.ipynb)
+
 ## Description On Basic Concepts
 
 In order to user and business patterns in Yelp, I will analyze three datasets of Yelp at Kaggle: business.json, review.json, and user.json
